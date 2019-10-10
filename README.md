@@ -7,7 +7,7 @@ Using our model we will try to figure out possibility of winning, for each game 
  
  
  
- > The model is under development, and is predicted to be completed before christmas.
+ > The model is under development, and is predicted to be completed before christmas(2019).
  > Team members:
  > - Neham
  > - vishesh
